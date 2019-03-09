@@ -2,6 +2,8 @@
 ---
 https://github.com/go-zoo/bone
 
+http://go-zoo.github.io/bone/
+
 ```go
 import (
   "net/http"
